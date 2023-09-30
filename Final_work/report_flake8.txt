@@ -1,0 +1,7 @@
+[1mUnit_tests\Final_work\test_homework_6.py[m[36m:[m5[36m:[m80[36m:[m [1m[31mE501[m line too long (89 > 79 characters)
+[1mUnit_tests\Final_work\test_homework_6.py[m[36m:[m14[36m:[m80[36m:[m [1m[31mE501[m line too long (90 > 79 characters)
+[1mUnit_tests\Final_work\test_homework_6.py[m[36m:[m18[36m:[m80[36m:[m [1m[31mE501[m line too long (90 > 79 characters)
+[1mUnit_tests\Final_work\test_homework_6.py[m[36m:[m32[36m:[m80[36m:[m [1m[31mE501[m line too long (89 > 79 characters)
+[1mUnit_tests\Final_work\test_homework_6.py[m[36m:[m35[36m:[m80[36m:[m [1m[31mE501[m line too long (80 > 79 characters)
+[1mUnit_tests\Final_work\test_homework_6.py[m[36m:[m37[36m:[m80[36m:[m [1m[31mE501[m line too long (89 > 79 characters)
+[1mUnit_tests\Final_work\test_homework_6.py[m[36m:[m40[36m:[m80[36m:[m [1m[31mE501[m line too long (95 > 79 characters)
